@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ay312
-- 👀 I’m interested in becoming a full stack developer/dev ops engineer
-- 🌱 I’m currently learning full stack development using javascript
+- 👀 I’m interested in IT and am excited to learn and practice what I learn 
+- 🌱 I’m currently learning full stack development using javascript and React
 - contact me for opportunities/advice at ayoubdouiri65@gmail.com
 
 
